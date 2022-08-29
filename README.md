@@ -10,7 +10,4 @@ cd helm
 ```
 make
 ```
- Or On Centos we can simply run :
- ```
- yum install helm --classic
- ```
+ 
